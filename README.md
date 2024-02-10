@@ -4,3 +4,7 @@ Gshellscript is a gaming script that install all the necessary software for gami
 to run this script type sh Gaming\ script.sh
 
 special thanks to znukem for the name 
+
+Please submit a bug request or any advice in issues and pull request any of those would be greatly appreciated as i plant to make this script better 
+
+
